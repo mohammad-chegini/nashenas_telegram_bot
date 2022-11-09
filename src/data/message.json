@@ -1,0 +1,18 @@
+{
+    "message_id": 32,
+    "from": {
+        "id": 33007698,
+        "is_bot": false,
+        "first_name": "Mohammad Reza",
+        "username": "Mohammad_r_c",
+        "language_code": "en"
+    },
+    "chat": {
+        "id": 33007698,
+        "first_name": "Mohammad Reza",
+        "username": "Mohammad_r_c",
+        "type": "private"
+    },
+    "date": 1668007455,
+    "text": "\ud83d\ude02"
+}
